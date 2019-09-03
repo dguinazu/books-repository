@@ -52,3 +52,11 @@ If you use docker-compose, the default URL is `http://127.0.0.1:8888`. This will
 email: admin@mail.com
 pass: password
 ```
+
+
+###Testing
+
+To execute the tests, run the following command:
+```
+vendon/bin/phpunit
+```
